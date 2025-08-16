@@ -34,7 +34,7 @@ Or Get the exe from releases section.
 
 ---
 
-## 🎨 Screenshots (Optional)
+## 🎨 Screenshots
 ![App Screenshot](screenshot.png)
 
 ---
