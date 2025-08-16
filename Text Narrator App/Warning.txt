@@ -1,0 +1,1 @@
+Don't delete the icon.ico file. if deleted it will crash the Text Narrator app.
